@@ -13,6 +13,3 @@ One Of The FreeCodeCamp Responsive Web Design Certificate Projects
 9. Your portfolio should have at least one media query
 10. The height of the welcome section should be equal to the height of the viewport
 11. The navbar should always be at the top of the viewport
-
-## Live
-[codepen.io](https://codepen.io/f4rukyldrm/full/dyqVqdX)
